@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Task description
 
 1. Create your AWS account.
@@ -19,6 +18,3 @@
 1. All infrastructure is deployed as code.
 2. Deployment doesn't require manual steps.
 3. Code is pushed to GitHub, and shared with Luminor for assessment.
-=======
-# atlantis-eks-hometask
->>>>>>> d5a2b7bb8a9ed7f64ccd78a96b36fbc0ea074808

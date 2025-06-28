@@ -1,7 +1,7 @@
-variable "vpc_cidr" {
+variable "cluster_name" {
   type        = string
 }
 
-variable "availability_zones" {
+variable "subnet_ids" {
   type        = list(string)
 }
